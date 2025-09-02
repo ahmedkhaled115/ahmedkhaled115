@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there! Welcome to my GitHub Profile! 👋  
 
-<!--
-**ahmedkhaled115/ahmedkhaled115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I’m **Ahmed Khaled**, a **Full-Stack Web Scraping Expert** with over **3 years of experience** and more than **800 five-star reviews** from **1,000+ satisfied clients worldwide**.  
 
-Here are some ideas to get you started:
+I specialize in delivering **premium web scraping services** with:  
+- ⚡ Fast turnaround times  
+- 💲 Competitive pricing  
+- 🎯 High accuracy & efficiency  
+- 🔧 Customized solutions for every project  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out my [📂 Portfolio](https://github.com/ahmedkhaled115/Portfolio) to see all of my **projects, micro-projects, skills, certificates, and achievements**.  
+
+---
+
+## 📊 My Stats  
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedkhaled115&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ahmed Khaled's GitHub Stats" />  
