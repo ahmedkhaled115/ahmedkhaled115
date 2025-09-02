@@ -8,7 +8,7 @@ I specialize in delivering **premium web scraping services** with:
 - 🎯 High accuracy & efficiency  
 - 🔧 Customized solutions for every project  
 
-Check out my [📂 Portfolio](https://github.com/ahmedkhaled115/Portfolio) to see all of my **projects, micro-projects, skills, certificates, and achievements**.  
+Check out my [📂 Portfolio](https://ahmedkhaled115.github.io/Projects/index.html) to see all of my **projects, micro-projects, skills, certificates, and achievements**.  
 
 ---
 
