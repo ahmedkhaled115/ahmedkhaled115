@@ -1,6 +1,6 @@
 ### Hi there! Welcome to my GitHub Profile! 👋  
 
-Hello! I’m **Ahmed Khaled**, a **Full-Stack Web Scraping Expert** with over **3 years of experience** and more than **800 five-star reviews** from **1,000+ satisfied clients worldwide**.  
+Hello! I’m **Ahmed Khaled**, a **Full-Stack Web Scraping Expert** with over **3 years of experience** and more than **850 five-star reviews** from **1,500+ satisfied clients worldwide**.  
 
 I specialize in delivering **premium web scraping services** with:  
 - ⚡ Fast turnaround times  
